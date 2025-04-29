@@ -1,0 +1,5 @@
+Temurin
+
+sdk list java | grep '21'
+sdk install java 21.0.6-tem
+sdk use java 21.0.6-tem

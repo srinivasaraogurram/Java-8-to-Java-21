@@ -108,3 +108,5 @@ Virtual Threads is a seperate topic
   - Oracle, Eclipse Adoptium (Temurin), Amazon (Corretto), Azul Systems (Zulu), IBM, Microsoft, Red Hat, and SAP.
 - All of these vendors have the concept of LTS (Long Term Support) releases.
 - Primary applications run on these LTS releases even though new Java versions are released every 6 months.
+
+SDKMAN

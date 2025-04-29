@@ -96,3 +96,15 @@ Here is the extracted text presented in a table format:
 This table compares the key features introduced in Java 8 and those in Java 9 and beyond.
 Virtual Threads is a seperate topic
 ![alt text](image-3.png)
+
+### Extracted Text:
+
+**Java Release Model**
+
+- Java is an open-source language and is managed under the OpenJDK project.
+  - Java 7 was the first version that was released under the open-source license.
+- The OpenJDK project is maintained by Oracle, Red Hat, and the community.
+- There are different OpenJDK providers:
+  - Oracle, Eclipse Adoptium (Temurin), Amazon (Corretto), Azul Systems (Zulu), IBM, Microsoft, Red Hat, and SAP.
+- All of these vendors have the concept of LTS (Long Term Support) releases.
+- Primary applications run on these LTS releases even though new Java versions are released every 6 months.

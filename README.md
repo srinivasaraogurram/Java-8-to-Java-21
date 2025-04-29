@@ -110,3 +110,55 @@ Virtual Threads is a seperate topic
 - Primary applications run on these LTS releases even though new Java versions are released every 6 months.
 
 SDKMAN
+
+07-Why Java 8 is Important?
+### Extracted Text:
+
+**Why Java 8?**
+
+- Most popular and widely accepted language in the world.
+- Java creators wanted to introduce the Functional features such as:
+  - Lambdas
+  - Streams
+  - Optional and etc.,
+- Technological advancements with the mobile/laptops/systems.
+- New Java 8 features simplify the concurrency operations.
+
+### Extracted Text:
+
+**Functional Programming:**
+
+- Embraces creating Immutable objects.
+- More concise and readable code.
+- Using functions/methods as first-class citizens.
+  - **Example:**  
+    ```java
+    Function<String, String> addSomeString = (name) -> name.toUpperCase().concat("default");
+    ```
+- Write code using a Declarative approach.
+
+Imperative vs Declarative Programming
+
+### Extracted Text:
+
+**Imperative Style of Programming**
+
+- Focuses on **how to perform the operations**.
+- Embraces **object mutability**.
+- This style of programming lists the step-by-step instructions on how to achieve an objective.
+- We write the code on what needs to be done in each step.
+- Imperative style is used with classic Object-Oriented Programming.
+
+### Extracted Text:
+
+**Declarative Style of Programming**
+
+- Focuses on **what is the result you want**.
+- Embraces **object immutability**.
+- Analogous to **SQL (Structured Query Language)**.
+- Use the functions that are already part of the library to achieve an objective.
+- Functional Programming uses the concept of declarative programming.
+
+08-Imperative VS Declarative Programming - Example 1
+
+02-Imperative VS Declarative Programming - Example 2

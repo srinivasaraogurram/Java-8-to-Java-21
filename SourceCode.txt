@@ -1,0 +1,9 @@
+modern-java-v2-start.zip:
+
+This is the starter code thats needed for this course.
+
+modern-java-v2-final.zip:
+
+This is the final code thats completed in this course.
+
+Resources for this lecture
